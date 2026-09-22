@@ -37,7 +37,7 @@ constexpr const char* kColorGreen = "{66FF00}";
 constexpr const char* kColorWhite = "{FFFFFF}";
 
 constexpr const char* kMsgLoaded =
-    "Crosshair size editor loaded. Author:{66FF00} mxn";
+    "Crosshair size editor loaded. Author:{66FF00} mxn {FFFFFF} | Credits: {66FF00} Makaron";
 
 constexpr const char* kMsgSizeSetFmt =
     "Crosshair size is now: {66FF00}%.1f.{FFFFFF} Setting saved";
